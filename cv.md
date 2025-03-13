@@ -30,12 +30,13 @@ Experienced Frontend Developer with 5+ years in web development, specializing in
 
 ## 💼 WORK EXPERIENCE
 ### **Frontend Developer | Poster (2024 - Present)**  
-**Tech Stack:** HTML, CSS, JavaScript, React, Vite, Next.js, Node.js, Express.js, Bootstrap  
-Cloud-based POS solutions provider for 23,000+ clients. Collaborated with cross-functional teams on scalable web applications.
+**Tech Stack:** React, Next.js, Node.js, TypeScript, AWS  
+Lead developer at cloud-based POS platform (23,000+ clients). Focusing on scalable architecture and process automation.
 #### Key Achievements:
-- Developed **Viber/Telegram-HubSpot integration**, reducing manual lead processing by **30%**.  
-- Built **file upload service with S3**, optimizing storage.  
-- Migrated legacy system to **microservices**, reducing deployment time from **2 hours to 10 minutes**.
+- Architected **microservices migration**, reducing deployment time by **95%** (2h → 10min)
+- Developed **Viber/Telegram-HubSpot integration** with **30%** faster lead processing
+- Implemented **AWS S3-based file system** improving upload speed by **40%**
+- Standardized **code style across all projects** by implementing unified linting rules and automated checks
 
 ### **Frontend Developer | QPart (2023 - 2024)** *(with partial Back-End responsibilities)*  
 **Tech Stack:** HTML, CSS, JavaScript, jQuery, TypeScript, React, Redux, RTK, Vite, Next.js, Node.js, Express.js, NestJS  
