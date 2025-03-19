@@ -33,10 +33,10 @@ Experienced Frontend Developer with 5+ years in web development, specializing in
 **Tech Stack:** React, Next.js, Node.js, TypeScript, AWS  
 Lead developer at cloud-based POS platform (23,000+ clients). Focusing on scalable architecture and process automation.
 #### Key Achievements:
-- Architected **microservices migration**, reducing deployment time by **95%** (2h → 10min)
-- Developed **Viber/Telegram-HubSpot integration** with **30%** faster lead processing
-- Implemented **AWS S3-based file system** improving upload speed by **40%**
-- Standardized **code style across all projects** by implementing unified linting rules and automated checks
+- Led **microservices migration** of 3 core services, reducing average deployment time from 45 to 8 minutes
+- Developed **Viber/Telegram-HubSpot integration** handling 200+ daily leads with automated processing
+- Integrated **AWS S3** for scalable image storage and processing, enabling proper image optimization and delivery
+- Unified code standards across 12 repositories by implementing ESLint/Prettier configuration and CI checks
 
 ### **Frontend Developer | QPart (2023 - 2024)** *(with partial Back-End responsibilities)*  
 **Tech Stack:** HTML, CSS, JavaScript, jQuery, TypeScript, React, Redux, RTK, Vite, Next.js, Node.js, Express.js, NestJS  
