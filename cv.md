@@ -10,6 +10,7 @@
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/andriysushko/)  
 - **GitHub:** [Profile](http://github.com/itSuhsko14/)  
 - **Portfolio:** [itSushkoAndriy.pp.ua](https://itSushkoAndriy.pp.ua)  
+- **Telegram:** [Telegram](https://t.me/alutiy)  
 - **Location:** Dnipro, Ukraine | Office/Remote  
 
 ---
