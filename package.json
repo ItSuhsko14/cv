@@ -5,7 +5,9 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "build": "npm run copy-files"
+    "build": "npm run copy-files",
+    "copy-files": "cp -r index.html styles.css script.js cv.md package.json .gitignore ./dist/",
+    "deploy": "npm run build && git add . && git commit -m 'Deploy to GitHub Pages' && git push origin gh-pages"
   },
   "dependencies": {
     "express": "^4.18.2",
@@ -13,5 +15,10 @@
   },
   "devDependencies": {
     "http-server": "^14.1.1"
+  },
+  "homepage": "https://itsuhsko14.github.io/cv",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItSuhsko14/cv.git"
   }
 }
