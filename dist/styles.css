@@ -1,0 +1,129 @@
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --text-color: #333;
+    --background-color: #ffffff;
+    --border-radius: 8px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--background-color);
+}
+
+.container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+h1, h2, h3 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+    border-bottom: 2px solid var(--secondary-color);
+    padding-bottom: 0.5rem;
+}
+
+h3 {
+    font-size: 1.4rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+ul {
+    list-style-position: inside;
+    margin-left: 1rem;
+}
+
+a {
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.date {
+    color: #666;
+    font-style: italic;
+}
+
+.highlight {
+    color: var(--secondary-color);
+    font-weight: bold;
+}
+
+.download-buttons {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    justify-content: center;
+}
+
+.download-btn {
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: all 0.3s ease;
+}
+
+.download-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+#download-pdf {
+    background-color: #dc3545;
+    color: white;
+}
+
+#download-docx {
+    background-color: #007bff;
+    color: white;
+}
+
+.download-btn i {
+    font-size: 1.2rem;
+}
+
+@media (max-width: 768px) {
+    .container {
+        margin: 1rem;
+    }
+    
+    h1 {
+        font-size: 2rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+    
+    h3 {
+        font-size: 1.2rem;
+    }
+}
