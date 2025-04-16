@@ -49,14 +49,14 @@ Implemented full-cycle development of front-end and back-end solutions for manuf
 - Reduced downtime from **40-80 hours/month** to **1-2 hours/month** with a client-server architecture.  
 - Standardized code style, transitioning from **ES5 to ES6**.
 
-### **Frontend Developer | Mustache Development (2022 - 2023)**  
+### **Frontend Developer | Mustache Development (2021 - 2023)**  
 **Tech Stack:** HTML, CSS, JavaScript, React, Redux, Next.js  
 Developed websites and SPAs for hospitality clients.
 #### Key Achievements:
 - Created **10+ websites**, from templates and scratch.  
 - Developed several complex web apps for business automation.
 
-### **Part-time Frontend Developer | Event Agency “Luty” (2018 - 2022)**  
+### **Part-time Frontend Developer | Event Agency “Luty” (2018 - 2021)**  
 **Tech Stack:** HTML, CSS, JavaScript, PHP  
 Built websites for marketing projects and business automation.
 #### Key Achievements:
