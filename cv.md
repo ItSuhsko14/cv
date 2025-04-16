@@ -16,7 +16,7 @@
 ---
 
 ## 📝 ABOUT
-Experienced Frontend Developer with 5+ years in web development, specializing in React, Redux, and scalable web applications. Skilled in backend integration (Node.js, Express.js) and passionate about building clean, maintainable architectures. Former entrepreneur with business-oriented thinking and strong communication skills.
+Versatile Fullstack Developer with 5+ years of hands-on experience building modern web applications using React, Node.js, and scalable backend solutions. Skilled in DevOps practices, CI/CD pipelines, and cloud infrastructure (Docker, AWS, Linux, Raspberry Pi). Comfortable working across the entire development lifecycle — from idea to deployment. Former entrepreneur with strong communication skills and a business-oriented mindset. Actively growing expertise in backend systems, automation, and infrastructure-as-code to bring stability and speed to development workflows.
 
 ---
 
