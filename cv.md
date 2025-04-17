@@ -16,16 +16,20 @@
 ---
 
 ## 📝 ABOUT
-Versatile Fullstack Developer with 5+ years of hands-on experience building modern web applications using React, Node.js, and scalable backend solutions. Skilled in DevOps practices, CI/CD pipelines, and cloud infrastructure (Docker, AWS, Linux, Raspberry Pi). Comfortable working across the entire development lifecycle — from idea to deployment. Former entrepreneur with strong communication skills and a business-oriented mindset. Actively growing expertise in backend systems, automation, and infrastructure-as-code to bring stability and speed to development workflows.
+Fullstack Developer with 5+ years of hands-on experience building modern web applications using React, Node.js, and scalable backend solutions. Skilled in DevOps practices, CI/CD pipelines, and cloud infrastructure (Docker, AWS, Linux, Raspberry Pi). Comfortable working across the entire development lifecycle — from idea to deployment. Former entrepreneur with strong communication skills and a business-oriented mindset. Actively growing expertise in backend systems, automation, and infrastructure-as-code to bring stability and speed to development workflows.
 
 ---
 
 ## 💻 SKILLS
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Redux, Next.js, WebSockets  
-- **Backend:** Node.js, Express.js, Nest.js, REST API  
-- **Databases:** PostgreSQL, MongoDB  
-- **DevOps:** Docker, AWS, OVH, CI/CD  
-- **Tools:** Netlify, Vercel, Onrender, Asana, Trello  
+- HTML, CSS, JavaScript, TypeScript, Python
+- React, Redux, Next.js, Vite
+- Node.js, Express.js, Nest.js
+- PostgreSQL, MongoDB
+- Jest, Cypress
+- Git, GitHub, GitLab
+- Docker, AWS, OVH, CI/CD, S3 (AWS, OVH), Linux, Raspbery Pi, Rollbar, Grafana
+- Netlify, Vercel, Onrender, GitHub Actions
+- Asana, Trello, Notion  
 
 ---
 
@@ -73,3 +77,6 @@ Built websites for marketing projects and business automation.
 ## 🌐 LANGUAGES
 - 🇺🇦 **Ukrainian:** Native  
 - 🇬🇧 **English:** Upper Intermediate (B2)  
+
+## 🔑 KEYWORDS
+- GraphQL, REST, SCRUM, Agile, Microservices, Full Stack Developer, Backend Developer, Software Development, Infrastructure, Automation, CI/CD Pipelines, Unit Testing, Integration Testing, Web Applications, Cloud Services, JWT, WebSocket, REST API, SSR, SSG
